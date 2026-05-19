@@ -1,13 +1,12 @@
 <h1 align="center">TeraStudio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Audio%20Engineering-blue" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status"/>
+  <b>Hobbyist-driven open-source projects.</b>
 </p>
 
-<p align="center">
-  <b>Building open-source tools for AI-powered audio processing.</b>
-</p>
+---
+
+We build all kinds of apps and tools — whatever we find fun and useful. From audio processing to Minecraft utilities, bots, web apps, and beyond. If it's interesting, we ship it.
 
 ---
 
